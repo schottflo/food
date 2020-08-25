@@ -13,5 +13,4 @@ main.py
 If possible install a GPU driver for Tensorflow, as it speeds up computations considerably. The output will be a sequence of zeros and ones indicating whether the food on the first image tastes more similar to the food on the second image than to the food on the third image. 
 
 ## Co-authors
-David Wissel
-Pascal Kündig
+David Wissel, Pascal Kündig
